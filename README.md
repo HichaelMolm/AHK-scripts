@@ -37,6 +37,6 @@ alt+d --> Ctrl+x --> Ctrl+t --> Ctrl+v --> enter
 **_These are scripts specific to my work that will not be useful for most people_**
 
 **For easy navigation to new engines press CTRL+l**
-  - Ctrl+l  
-remapped to (when inside chrome)
+  - Ctrl+l<br/>
+remapped to (when inside chrome)<br/>
 alt+d-->backspace-->"localhost"
