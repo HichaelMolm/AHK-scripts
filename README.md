@@ -4,7 +4,9 @@
 
 **_To enable scripts to run on startup press win+r --> type shell:startup --> copy ahk scripts to folder_**
 
-### Scripts overview and explanation:
+# Scripts overview and explanation:
+
+## General scripts
 **For easy renaming of files ' is remapped to f2 when inside file explorer**
   - '       remapped to f2 (When inside file explorer)
 
@@ -13,3 +15,10 @@
 
 **For moving files one folder up. Select one or more files and press CTRL+u to move the files to parent directory. This is also useful because Windows 11 no longer supports dragging a file to the filepath**
   - Ctrl+u  remapped to ctrl+x --> backspace --> ctrl+v (when inside file explorer, moves a file (when selected) one folder up)
+
+## Actuo scripts
+
+**_These are scripts specific to my work that will not be useful for most people_**
+
+**For easy navigation to new engines press CTRL+l**
+  - Ctrl+l  remapped to alt+d-->backspace-->"localhost"
