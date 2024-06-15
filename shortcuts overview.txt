@@ -1,0 +1,9 @@
+Useful AHK scripts for windows
+_______________________________________________________________________________________________________________________________________________
+
+To enable scripts to run on startup press win+r --> type shell:startup --> copy ahk scripts to folder
+_______________________________________________________________________________________________________________________________________________
+
+'       remapped to f2 (When inside file explorer)
+½       remapped to $  
+Ctrl+u  remapped to ctrl+x --> backspace --> ctrl+v (when inside file explorer, moves a file (when selected) one folder up)
