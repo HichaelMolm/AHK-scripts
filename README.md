@@ -1,6 +1,6 @@
 # AHK-scripts
 
-## A collection of useful AHK scripts for windows.
+### A collection of useful AHK scripts for windows.
 
 **_To enable scripts to run on startup press win+r --> type shell:startup --> copy ahk scripts to folder_**
 
