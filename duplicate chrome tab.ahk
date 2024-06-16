@@ -1,3 +1,11 @@
+#IfWinActive ahk_class MozillaUIWindowClass ; Mozilla Firefox 3.x
+   ^+d::GenericDuplicateTab() ; (Control+Shift+D)
+#IfWinActive
+
+#IfWinActive ahk_class MozillaWindowClass ; Firefox 4, 5, 6, 7, 8+ (?)
+   ^+d::GenericDuplicateTab() ; (Control+Shift+D)
+#IfWinActive
+
 #IfWinActive ahk_class Chrome_WidgetWin_1 ; Chromium and Chrome 19+
    ^+d::GenericDuplicateTab() ; (Control+Shift+D)
 #IfWinActive

@@ -29,7 +29,7 @@ ctrl+x --> backspace --> ctrl+v <br/>
 _(Only when inside file explorer)_
 
 ### duplicate chrome tab.ahk
-**For duplicating a current chrome tab. Press Ctrl+Shift+d. (credit to https://stackoverflow.com/questions/6275405/how-can-i-get-the-current-browser-url-with-an-autohotkey-script)
+**For duplicating a current chrome tab. Press Ctrl+Shift+d. (credit to https://stackoverflow.com/questions/6275405/how-can-i-get-the-current-browser-url-with-an-autohotkey-script)**
   - Ctrl+Shift+d<br/>
 remapped to <br/>
 alt+d --> Ctrl+x --> Ctrl+t --> Ctrl+v --> enter<br/>
