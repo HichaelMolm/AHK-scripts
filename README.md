@@ -34,7 +34,6 @@ _(Only when inside file explorer)_
 remapped to <br/>
 alt+d --> Ctrl+x --> Ctrl+t --> Ctrl+v --> enter<br/>
 _(Only when inside chrome)_
-## Actuo scripts
 
 ### editXLcell.ahk 
 **For editing the contents of an excel cell press ctrl + '. Usually you would need to either navigate to the formula bar in the top or double click the cell, but not anymore**
@@ -42,6 +41,8 @@ _(Only when inside chrome)_
 remapped to <br/>
 double click<br/>
 _(Only when inside excel)_
+
+## Actuo scripts
 
 **_These are scripts specific to my work that will not be useful for most people_**
 
