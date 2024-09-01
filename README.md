@@ -42,6 +42,13 @@ remapped to <br/>
 double click<br/>
 _(Only when inside excel)_
 
+### Excel bullet.ahk 
+**For inserting a word bullet in excel, go into the cell and press ctrl+-. 
+   - ctrl + - <br/>
+remapped to <br/>
+unicode character {U+2022}<br/>
+_(Only when inside excel)_
+
 ## Actuo scripts
 
 **_These are scripts specific to my work that will not be useful for most people_**
