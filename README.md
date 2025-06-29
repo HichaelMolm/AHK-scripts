@@ -49,12 +49,18 @@ remapped to <br/>
 unicode character {U+2022}<br/>
 _(Only when inside excel)_
 
+### windowsPathToR.ahk
+** When having used "copy as path" on a file in windows (the shortcut is ctrl+shift+c) windows splits folders using \, this can't be read by R and probably other programming languages.
+    - ctrl + shfit + v <br/>
+remappted to <br/>
+this is not a remapping rather a script that takes a windows path and replaces \ with / such that R and other programming languages can use it. The shortcut works when inside apps based on chromium
+
 ## Actuo scripts
 
 **_These are scripts specific to my work that will not be useful for most people_**
 
-**For easy navigation to new engines press CTRL+l**
-  - Ctrl+l<br/>
+**For easy navigation to new engines press ALT+e**
+  - alt+e<br/>
 remapped to: <br/>
-alt+d-->backspace-->"localhost"<br/>
+this is not a remapping, rather a script that takes your current URL base path and appends "/engine"<br/>
 _(Only when inside chrome)_
