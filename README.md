@@ -43,7 +43,7 @@ double click<br/>
 _(Only when inside excel)_
 
 ### Excel bullet.ahk 
-**For inserting a word bullet in excel, go into the cell and press ctrl+-. 
+**For inserting a word bullet in excel, go into the cell and press ctrl+-.** 
    - ctrl + - <br/>
 remapped to <br/>
 unicode character {U+2022}<br/>
@@ -51,7 +51,7 @@ _(Only when inside excel)_
 
 ### windowsPathToR.ahk
 **When having used "copy as path" on a file in windows (the shortcut is ctrl+shift+c) windows splits folders using \, this can't be read by R and probably other programming languages.**
-    - ctrl + shfit + v <br/>
+   - ctrl + shfit + v <br/>
 remapped to <br/>
 this is not a remapping rather a script that takes a windows path and replaces \ with / such that R and other programming languages can use it. The shortcut works when inside apps based on chromium
 
